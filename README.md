@@ -1,1 +1,1 @@
-# columbia2018
+# 2018 Computational Journalism Class
