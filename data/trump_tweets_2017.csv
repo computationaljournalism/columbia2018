@@ -1,4 +1,4 @@
-created at,id,favorite count,retweet count,is retweet,source,in reply to user_id,text
+created_at,id_str,favorite_count,retweet_count,is_retweet,source,in_reply_to_user_id,text
 Mon Jan 01 13:37:52 +0000 2018,947824196909961216,51473,8237,False,Twitter for iPhone,,"Will be leaving Florida for Washington (D.C.) today at 4:00 P.M. Much work to be done, but it will be a great New Year!"
 Mon Jan 01 12:44:40 +0000 2018,947810806430826496,53557,14595,False,Twitter for iPhone,25073877,"Iran is failing at every level despite the terrible deal made with them by the Obama Administration. The great Iranian people have been repressed for many years. They are hungry for food &amp; for freedom. Along with human rights, the wealth of Iran is being looted. TIME FOR CHANGE!"
 Mon Jan 01 12:12:00 +0000 2018,947802588174577664,138808,49566,False,Twitter for iPhone,,"The United States has foolishly given Pakistan more than 33 billion dollars in aid over the last 15 years, and they have given us nothing but lies &amp; deceit, thinking of our leaders as fools. They give safe haven to the terrorists we hunt in Afghanistan, with little help. No more!"
