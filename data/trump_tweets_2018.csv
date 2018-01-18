@@ -1,4 +1,4 @@
-created_at,id,favorite_count,retweet count,is_retweet,source,in_reply_to_user_id,text
+created_at,id,favorite_count,retweet_count,is_retweet,source,in_reply_to_user_id,text
 Thu Jan 18 01:11:26 +0000 2018,953796944564031489,71774,17774,False,Twitter for iPhone,,"ISIS is in retreat, our economy is booming, investments and jobs are pouring back into the country, and so much more! Together there is nothing we can’t overcome--even a very biased media. We ARE Making America Great Again!"
 Thu Jan 18 01:05:46 +0000 2018,953795518592843777,49018,11067,False,Twitter for iPhone,,"Despite some very corrupt and dishonest media coverage, there are many great reporters I respect and lots of GOOD NEWS for the American people to be proud of!"
 Thu Jan 18 01:00:05 +0000 2018,953794085751574534,44951,18342,False,Twitter for iPhone,,"And the FAKE NEWS winners are...
